@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 samples/facial-emotion-recognition/data/.DS_Store
 /samples/facial-emotion-recognition/data/output
+samples/facial-emotion-recognition/.DS_Store
