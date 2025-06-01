@@ -178,3 +178,7 @@ samples/facial-emotion-recognition/.DS_Store
 samples/facial-emotion-recognition/Facial-Emotion-Recognition-GPT-4o-3.ipynb
 samples/facial-emotion-recognition/Facial-Emotion-Recognition-GPT-4o-2.ipynb
 samples/facial-emotion-recognition/Facial-Emotion-Recognition-GPT-4o-multiple.ipynb
+samples/generate-video-with-sora/output.mp4
+samples/responses-api-mcp/.env.sample
+samples/responses-api-mcp/requirements.txt
+samples/responses-api-mcp/responses-mcp-aoai.py
